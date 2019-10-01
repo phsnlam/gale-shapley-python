@@ -1,0 +1,68 @@
+- Participants:
+Jake Will Zack Alex Kyle Sam Joe Josh Mike Ryan 
+Flo Kat Nel Cait Jinx Anna Liz Ruby Rose Mary 
+
+- Preferences:
+Suitors:
+Jake :  Liz Cait Rose Nel Kat Ruby Flo Jinx Anna Mary 
+Will :  Mary Anna Ruby Nel Liz Jinx Rose Kat Cait Flo 
+Zack :  Anna Mary Flo Liz Ruby Rose Nel Cait Kat Jinx 
+Alex :  Liz Mary Nel Flo Ruby Rose Anna Cait Kat Jinx 
+Kyle :  Jinx Ruby Anna Kat Liz Mary Flo Nel Rose Cait 
+Sam :  Jinx Cait Liz Rose Kat Mary Anna Flo Ruby Nel 
+Joe :  Jinx Nel Flo Anna Rose Mary Ruby Liz Cait Kat 
+Josh :  Liz Cait Ruby Nel Mary Flo Jinx Kat Rose Anna 
+Mike :  Jinx Anna Liz Nel Rose Cait Kat Flo Ruby Mary 
+Ryan :  Kat Jinx Liz Cait Mary Nel Anna Rose Flo Ruby 
+
+Girls:
+Flo :  Jake Zack Joe Josh Mike Kyle Sam Will Ryan Alex 
+Kat :  Sam Zack Ryan Will Jake Joe Alex Kyle Josh Mike 
+Nel :  Jake Kyle Joe Ryan Sam Mike Josh Zack Will Alex 
+Cait :  Joe Ryan Jake Mike Zack Alex Sam Josh Will Kyle 
+Jinx :  Zack Joe Jake Ryan Kyle Alex Josh Mike Sam Will 
+Anna :  Mike Joe Alex Sam Zack Will Jake Kyle Ryan Josh 
+Liz :  Joe Jake Will Alex Ryan Kyle Sam Mike Zack Josh 
+Ruby :  Joe Sam Zack Jake Josh Alex Kyle Mike Ryan Will 
+Rose :  Zack Joe Josh Mike Will Kyle Sam Alex Jake Ryan 
+Mary :  Jake Mike Alex Josh Sam Will Joe Zack Ryan Kyle 
+
+- Matching will now begin:
+Jake proposes to Liz
+Jake is engaged to Liz
+Zack proposes to Anna
+Zack is engaged to Anna
+Kyle proposes to Jinx
+Kyle is engaged to Jinx
+Joe proposes to Jinx
+Jinx dumps Kyle
+Joe is engaged to Jinx
+Mike proposes to Anna
+Anna dumps Zack
+Mike is engaged to Anna
+Kyle proposes to Ruby
+Kyle is engaged to Ruby
+Will proposes to Mary
+Will is engaged to Mary
+Sam proposes to Cait
+Sam is engaged to Cait
+Ryan proposes to Kat
+Ryan is engaged to Kat
+Alex proposes to Mary
+Mary dumps Will
+Alex is engaged to Mary
+Zack proposes to Flo
+Zack is engaged to Flo
+Josh proposes to Ruby
+Ruby dumps Kyle
+Josh is engaged to Ruby
+Kyle proposes to Nel
+Kyle is engaged to Nel
+Will proposes to Rose
+Will is engaged to Rose
+
+- Pairing:
+Elapsed wall clock time: 14.73
+Elapsed CPU time: 0.2188
+Stable matchup.
+Another trial? (Y)es / (N)o 
