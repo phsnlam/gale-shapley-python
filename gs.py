@@ -2,7 +2,7 @@
 
 """"Program name: Gale-Shapley test run
 Created by: Jake Pham
-Date: 09/24/2019
+Date: 09/30/2019
 PURPOSE: Learn the implementation of the Gale-Shapley algorithm
 Input:
 Output:
