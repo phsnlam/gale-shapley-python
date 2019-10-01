@@ -1,0 +1,27 @@
+Input is the following dictionaries with the values of each key (preferences of each suitor) randomized for each trial:
+
+suitor_rank_list = {
+    'Jake': ['Flo', 'Kat', 'Nel', 'Cait', 'Jinx', 'Anna', 'Liz', 'Ruby', 'Rose', 'Mary'],
+    'Will': ['Flo', 'Jinx', 'Kat', 'Cait', 'Ruby', 'Mary', 'Anna', 'Nel', 'Rose', 'Liz'],
+    'Zack': ['Rose', 'Flo', 'Nel', 'Ruby', 'Anna', 'Mary', 'Cait', 'Kat', 'Liz', 'Jinx'],
+    'Alex': ['Cait', 'Anna', 'Ruby', 'Nel', 'Jinx', 'Mary', 'Liz', 'Flo', 'Rose', 'Kat'],
+    'Kyle': ['Liz', 'Ruby', 'Kat', 'Jinx', 'Mary', 'Flo', 'Anna', 'Rose', 'Nel', 'Cait'],
+    'Sam': ['Nel', 'Ruby', 'Liz', 'Anna', 'Kat', 'Mary', 'Flo', 'Jinx', 'Cait', 'Rose'],
+    'Joe': ['Ruby', 'Flo', 'Kat', 'Jinx', 'Anna', 'Rose', 'Liz', 'Nel', 'Cait', 'Mary'],
+    'Josh': ['Nel', 'Liz', 'Kat', 'Mary', 'Jinx', 'Anna', 'Ruby', 'Rose', 'Cait', 'Flo'],
+    'Mike': ['Kat', 'Anna', 'Flo', 'Mary', 'Jinx', 'Ruby', 'Cait', 'Nel', 'Liz', 'Rose'],
+    'Ryan': ['Mary', 'Jinx', 'Nel', 'Flo', 'Kat', 'Rose', 'Cait', 'Liz', 'Ruby', 'Anna']
+}
+
+girl_rank_list = {
+    'Flo': ['Jake', 'Will', 'Zack', 'Alex', 'Kyle', 'Sam', 'Joe', 'Josh', 'Mike', 'Ryan'],
+    'Kat': ['Will', 'Mike', 'Sam', 'Kyle', 'Zack', 'Jake', 'Alex', 'Joe', 'Ryan', 'Josh'],
+    'Nel': ['Kyle', 'Will', 'Ryan', 'Mike', 'Josh', 'Zack', 'Joe', 'Alex', 'Sam', 'Jake'],
+    'Cait': ['Zack', 'Joe', 'Jake', 'Will', 'Alex', 'Ryan', 'Mike', 'Josh', 'Kyle', 'Sam'],
+    'Jinx': ['Alex', 'Zack', 'Sam', 'Josh', 'Joe', 'Will', 'Kyle', 'Mike', 'Ryan', 'Jake'],
+    'Anna': ['Jake', 'Sam', 'Ryan', 'Will', 'Alex', 'Mike', 'Joe', 'Josh', 'Kyle', 'Zack'],
+    'Liz': ['Mike', 'Kyle', 'Zack', 'Jake', 'Alex', 'Will', 'Joe', 'Josh', 'Sam', 'Ryan'],
+    'Ruby': ['Ryan', 'Kyle', 'Alex', 'Will', 'Mike', 'Sam', 'Jake', 'Josh', 'Zack', 'Joe'],
+    'Rose': ['Will', 'Jake', 'Mike', 'Kyle', 'Joe', 'Zack', 'Alex', 'Ryan', 'Josh', 'Sam'],
+    'Mary': ['Joe', 'Zack', 'Jake', 'Alex', 'Ryan', 'Mike', 'Will', 'Josh', 'Kyle', 'Sam']
+}
