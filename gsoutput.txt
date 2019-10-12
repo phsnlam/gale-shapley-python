@@ -4,65 +4,72 @@ Flo Kat Nel Cait Jinx Anna Liz Ruby Rose Mary
 
 - Preferences:
 Suitors:
-Jake :  Liz Cait Rose Nel Kat Ruby Flo Jinx Anna Mary 
-Will :  Mary Anna Ruby Nel Liz Jinx Rose Kat Cait Flo 
-Zack :  Anna Mary Flo Liz Ruby Rose Nel Cait Kat Jinx 
-Alex :  Liz Mary Nel Flo Ruby Rose Anna Cait Kat Jinx 
-Kyle :  Jinx Ruby Anna Kat Liz Mary Flo Nel Rose Cait 
-Sam :  Jinx Cait Liz Rose Kat Mary Anna Flo Ruby Nel 
-Joe :  Jinx Nel Flo Anna Rose Mary Ruby Liz Cait Kat 
-Josh :  Liz Cait Ruby Nel Mary Flo Jinx Kat Rose Anna 
-Mike :  Jinx Anna Liz Nel Rose Cait Kat Flo Ruby Mary 
-Ryan :  Kat Jinx Liz Cait Mary Nel Anna Rose Flo Ruby 
+Jake :  Kat Ruby Flo Anna Jinx Liz Cait Nel Mary Rose 
+Will :  Anna Cait Nel Liz Jinx Kat Flo Rose Ruby Mary 
+Zack :  Anna Flo Cait Nel Ruby Rose Jinx Liz Kat Mary 
+Alex :  Mary Flo Cait Rose Kat Jinx Ruby Nel Liz Anna 
+Kyle :  Rose Flo Ruby Cait Mary Kat Liz Nel Anna Jinx 
+Sam :  Ruby Flo Cait Nel Rose Anna Mary Kat Liz Jinx 
+Joe :  Jinx Flo Mary Nel Anna Liz Ruby Rose Cait Kat 
+Josh :  Liz Anna Cait Jinx Ruby Flo Mary Nel Rose Kat 
+Mike :  Jinx Flo Anna Ruby Mary Liz Rose Cait Kat Nel 
+Ryan :  Liz Nel Ruby Flo Kat Anna Mary Rose Jinx Cait 
 
 Girls:
-Flo :  Jake Zack Joe Josh Mike Kyle Sam Will Ryan Alex 
-Kat :  Sam Zack Ryan Will Jake Joe Alex Kyle Josh Mike 
-Nel :  Jake Kyle Joe Ryan Sam Mike Josh Zack Will Alex 
-Cait :  Joe Ryan Jake Mike Zack Alex Sam Josh Will Kyle 
-Jinx :  Zack Joe Jake Ryan Kyle Alex Josh Mike Sam Will 
-Anna :  Mike Joe Alex Sam Zack Will Jake Kyle Ryan Josh 
-Liz :  Joe Jake Will Alex Ryan Kyle Sam Mike Zack Josh 
-Ruby :  Joe Sam Zack Jake Josh Alex Kyle Mike Ryan Will 
-Rose :  Zack Joe Josh Mike Will Kyle Sam Alex Jake Ryan 
-Mary :  Jake Mike Alex Josh Sam Will Joe Zack Ryan Kyle 
+Flo :  Alex Will Sam Ryan Josh Mike Kyle Zack Joe Jake 
+Kat :  Zack Alex Joe Josh Ryan Kyle Jake Mike Sam Will 
+Nel :  Zack Will Alex Josh Sam Joe Ryan Jake Kyle Mike 
+Cait :  Zack Kyle Joe Josh Alex Will Sam Jake Mike Ryan 
+Jinx :  Kyle Mike Will Sam Ryan Zack Josh Alex Jake Joe 
+Anna :  Sam Will Alex Mike Ryan Josh Jake Joe Zack Kyle 
+Liz :  Ryan Will Kyle Jake Alex Sam Mike Joe Zack Josh 
+Ruby :  Alex Sam Will Kyle Jake Josh Joe Mike Ryan Zack 
+Rose :  Jake Kyle Alex Sam Josh Zack Will Joe Mike Ryan 
+Mary :  Mike Alex Ryan Sam Kyle Jake Will Joe Zack Josh 
 
 - Matching will now begin:
-Jake proposes to Liz
-Jake is engaged to Liz
+Jake proposes to Kat
+Jake is engaged to Kat
 Zack proposes to Anna
 Zack is engaged to Anna
-Kyle proposes to Jinx
-Kyle is engaged to Jinx
+Kyle proposes to Rose
+Kyle is engaged to Rose
 Joe proposes to Jinx
-Jinx dumps Kyle
 Joe is engaged to Jinx
-Mike proposes to Anna
+Mike proposes to Jinx
+Jinx dumps Joe
+Mike is engaged to Jinx
+Joe proposes to Flo
+Joe is engaged to Flo
+Will proposes to Anna
 Anna dumps Zack
-Mike is engaged to Anna
-Kyle proposes to Ruby
-Kyle is engaged to Ruby
-Will proposes to Mary
-Will is engaged to Mary
-Sam proposes to Cait
-Sam is engaged to Cait
-Ryan proposes to Kat
-Ryan is engaged to Kat
+Will is engaged to Anna
+Sam proposes to Ruby
+Sam is engaged to Ruby
+Ryan proposes to Liz
+Ryan is engaged to Liz
 Alex proposes to Mary
-Mary dumps Will
 Alex is engaged to Mary
 Zack proposes to Flo
+Flo dumps Joe
 Zack is engaged to Flo
-Josh proposes to Ruby
-Ruby dumps Kyle
-Josh is engaged to Ruby
-Kyle proposes to Nel
-Kyle is engaged to Nel
-Will proposes to Rose
-Will is engaged to Rose
+Josh proposes to Cait
+Josh is engaged to Cait
+Joe proposes to Nel
+Joe is engaged to Nel
 
 - Pairing:
-Elapsed wall clock time: 14.73
-Elapsed CPU time: 0.2188
+Jake  -  Kat
+Kyle  -  Rose
+Mike  -  Jinx
+Will  -  Anna
+Sam   -  Ruby
+Ryan  -  Liz
+Alex  -  Mary
+Zack  -  Flo
+Josh  -  Cait
+Joe   -  Nel
+Elapsed wall clock time: 13.68
+Elapsed CPU time: 0.1719
 Stable matchup.
-Another trial? (Y)es / (N)o 
+Another trial? (Y)es / (N)o

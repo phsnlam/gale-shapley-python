@@ -1,0 +1,3 @@
+python gs1.py -s 100
+
+python gs1.py -l 10

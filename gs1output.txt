@@ -1,0 +1,100 @@
+**********************Short version**********************
+Chosen number: 100
+Elapsed wall clock time: 0.01
+Elapsed CPU time: 0.0938
+
+**********************Long version**********************
+- Participants:
+0 1 2 3 4 5 6 7 8 9
+10 11 12 13 14 15 16 17 18 19
+
+- Preferences:
+Suitors:
+0 :  17 12 11 13 19 18 15 16 10 14
+1 :  19 11 15 17 12 16 14 10 18 13
+2 :  15 18 19 17 13 16 10 11 14 12
+3 :  15 13 19 11 12 18 10 16 17 14
+4 :  19 12 17 15 18 10 13 16 14 11
+5 :  18 19 16 15 12 14 10 13 17 11
+6 :  11 15 14 16 17 18 10 19 12 13
+7 :  13 17 18 14 19 15 16 12 11 10
+8 :  10 12 15 16 14 17 13 18 11 19
+9 :  10 11 13 12 16 17 18 15 14 19
+
+Girls:
+10 :  7 3 4 9 5 0 6 8 2 1
+11 :  9 4 1 7 0 6 8 5 3 2
+12 :  0 2 9 8 7 1 5 4 6 3
+13 :  7 5 0 4 6 1 8 3 2 9
+14 :  1 0 4 7 3 6 9 5 2 8
+15 :  9 6 4 1 3 7 0 2 5 8
+16 :  0 9 1 2 6 5 3 8 7 4
+17 :  2 1 0 7 4 9 5 8 6 3
+18 :  3 4 9 8 6 1 0 7 5 2
+19 :  3 7 9 0 8 4 2 1 6 5
+
+- Matching will now begin:
+0 proposes to 17
+0 is engaged to 17
+2 proposes to 15
+2 is engaged to 15
+4 proposes to 19
+4 is engaged to 19
+6 proposes to 11
+6 is engaged to 11
+8 proposes to 10
+8 is engaged to 10
+1 proposes to 11
+11 dumps 6
+1 is engaged to 11
+5 proposes to 18
+5 is engaged to 18
+9 proposes to 10
+10 dumps 8
+9 is engaged to 10
+8 proposes to 12
+8 is engaged to 12
+3 proposes to 15
+15 dumps 2
+3 is engaged to 15
+6 proposes to 15
+15 dumps 3
+6 is engaged to 15
+3 proposes to 13
+3 is engaged to 13
+7 proposes to 13
+13 dumps 3
+7 is engaged to 13
+3 proposes to 19
+19 dumps 4
+3 is engaged to 19
+2 proposes to 17
+17 dumps 0
+2 is engaged to 17
+0 proposes to 12
+12 dumps 8
+0 is engaged to 12
+4 proposes to 18
+18 dumps 5
+4 is engaged to 18
+5 proposes to 16
+5 is engaged to 16
+8 proposes to 14
+8 is engaged to 14
+
+- Pairing:
+1   -  11
+9   -  10
+6   -  15
+7   -  13
+3   -  19
+2   -  17
+0   -  12
+4   -  18
+5   -  16
+8   -  14
+
+Stable match.
+Chosen number: 10
+Elapsed wall clock time: 0.03
+Elapsed CPU time: 0.0312
